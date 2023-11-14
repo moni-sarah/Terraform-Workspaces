@@ -1,4 +1,4 @@
-variable "rg_name_backend" {
+variable "rg_name" {
   type = string
   description = "Name of the resource group"
 }
